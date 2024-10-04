@@ -1,0 +1,5 @@
+matplotlib
+pillow
+moviepy
+numpy
+xmltodict
